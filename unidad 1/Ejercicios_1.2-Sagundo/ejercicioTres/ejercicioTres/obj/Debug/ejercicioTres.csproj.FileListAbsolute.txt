@@ -1,0 +1,15 @@
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioTres\ejercicioTres\bin\Debug\ejercicioTres.exe.config
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioTres\ejercicioTres\bin\Debug\ejercicioTres.exe
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioTres\ejercicioTres\bin\Debug\ejercicioTres.pdb
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioTres\ejercicioTres\obj\Debug\ejercicioTres.csprojResolveAssemblyReference.cache
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioTres\ejercicioTres\obj\Debug\ejercicioTres.ejercicioTres.resources
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioTres\ejercicioTres\obj\Debug\ejercicioTres.Properties.Resources.resources
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioTres\ejercicioTres\obj\Debug\ejercicioTres.csproj.GenerateResource.Cache
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioTres\ejercicioTres\obj\Debug\ejercicioTres.exe
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioTres\ejercicioTres\obj\Debug\ejercicioTres.pdb
+C:\Users\Eduar\Downloads\EJERCICIOS COMPLETOS\EJERCICIOS COMPLETOS\ejercicioTres\ejercicioTres\bin\Debug\ejercicioTres.exe.config
+C:\Users\Eduar\Downloads\EJERCICIOS COMPLETOS\EJERCICIOS COMPLETOS\ejercicioTres\ejercicioTres\obj\Debug\ejercicioTres.exe
+C:\Users\Eduar\Downloads\EJERCICIOS COMPLETOS\EJERCICIOS COMPLETOS\ejercicioTres\ejercicioTres\obj\Debug\ejercicioTres.pdb
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejercicioTres\ejercicioTres\bin\Debug\ejercicioTres.exe.config
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejercicioTres\ejercicioTres\obj\Debug\ejercicioTres.exe
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejercicioTres\ejercicioTres\obj\Debug\ejercicioTres.pdb

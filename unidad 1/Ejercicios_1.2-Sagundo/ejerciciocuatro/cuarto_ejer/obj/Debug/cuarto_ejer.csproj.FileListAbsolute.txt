@@ -1,0 +1,20 @@
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\bin\Debug\cuarto_ejer.exe.config
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\bin\Debug\cuarto_ejer.exe
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\bin\Debug\cuarto_ejer.pdb
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\bin\Debug\Interop.WMPLib.dll
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\obj\Debug\Interop.WMPLib.dll
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\obj\Debug\cuarto_ejer.csproj.ResolveComReference.cache
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\obj\Debug\cuarto_ejer.Form1.resources
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\obj\Debug\cuarto_ejer.Properties.Resources.resources
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\obj\Debug\cuarto_ejer.csproj.GenerateResource.Cache
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\obj\Debug\cuarto_ejer.exe
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\obj\Debug\cuarto_ejer.pdb
+c:\users\eduar\onedrive\documentos\visual studio 2015\Projects\cuarto_ejer\cuarto_ejer\obj\Debug\cuarto_ejer.csprojResolveAssemblyReference.cache
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejerciciocuatro\cuarto_ejer\bin\Debug\cuarto_ejer.exe.config
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejerciciocuatro\cuarto_ejer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejerciciocuatro\cuarto_ejer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejerciciocuatro\cuarto_ejer\obj\Debug\cuarto_ejer.csproj.ResolveComReference.cache
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejerciciocuatro\cuarto_ejer\obj\Debug\cuarto_ejer.exe
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejerciciocuatro\cuarto_ejer\obj\Debug\cuarto_ejer.pdb

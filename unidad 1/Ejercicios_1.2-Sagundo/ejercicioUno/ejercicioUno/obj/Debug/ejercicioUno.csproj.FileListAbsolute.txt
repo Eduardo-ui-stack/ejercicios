@@ -1,0 +1,15 @@
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioUno\ejercicioUno\bin\Debug\ejercicioUno.exe.config
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioUno\ejercicioUno\bin\Debug\ejercicioUno.exe
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioUno\ejercicioUno\bin\Debug\ejercicioUno.pdb
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioUno\ejercicioUno\obj\Debug\ejercicioUno.csprojResolveAssemblyReference.cache
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioUno\ejercicioUno\obj\Debug\ejercicioUno.ventanaImg.resources
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioUno\ejercicioUno\obj\Debug\ejercicioUno.Properties.Resources.resources
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioUno\ejercicioUno\obj\Debug\ejercicioUno.csproj.GenerateResource.Cache
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioUno\ejercicioUno\obj\Debug\ejercicioUno.exe
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioUno\ejercicioUno\obj\Debug\ejercicioUno.pdb
+C:\Users\Eduar\Downloads\EJERCICIOS COMPLETOS\EJERCICIOS COMPLETOS\ejercicioUno\ejercicioUno\bin\Debug\ejercicioUno.exe.config
+C:\Users\Eduar\Downloads\EJERCICIOS COMPLETOS\EJERCICIOS COMPLETOS\ejercicioUno\ejercicioUno\obj\Debug\ejercicioUno.exe
+C:\Users\Eduar\Downloads\EJERCICIOS COMPLETOS\EJERCICIOS COMPLETOS\ejercicioUno\ejercicioUno\obj\Debug\ejercicioUno.pdb
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejercicioUno\ejercicioUno\bin\Debug\ejercicioUno.exe.config
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejercicioUno\ejercicioUno\obj\Debug\ejercicioUno.exe
+C:\Users\Eduar\OneDrive\Documentos\GitHub\ejercicios\unidad 1\Ejercicios_1.2-Sagundo\ejercicioUno\ejercicioUno\obj\Debug\ejercicioUno.pdb

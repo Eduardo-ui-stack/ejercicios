@@ -1,0 +1,12 @@
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioDos\ejercicioDos\bin\Debug\ejercicioDos.exe.config
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioDos\ejercicioDos\bin\Debug\ejercicioDos.exe
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioDos\ejercicioDos\bin\Debug\ejercicioDos.pdb
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.csprojResolveAssemblyReference.cache
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.Form1.resources
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.Properties.Resources.resources
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.csproj.GenerateResource.Cache
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.exe
+c:\users\darka\onedrive\documentos\visual studio 2015\Projects\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.pdb
+C:\Users\Eduar\OneDrive\Escritorio\Ejercicios_1.2-Sagundo\ejercicioDos\ejercicioDos\bin\Debug\ejercicioDos.exe.config
+C:\Users\Eduar\OneDrive\Escritorio\Ejercicios_1.2-Sagundo\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.exe
+C:\Users\Eduar\OneDrive\Escritorio\Ejercicios_1.2-Sagundo\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.pdb
